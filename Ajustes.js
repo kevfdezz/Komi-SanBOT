@@ -32,19 +32,19 @@ global.navegador = 'Safari'
 //OWNER DEL BOT 🤵🏻
 
 //nombre del owner
-global.ownername = "Android Tec"
+global.ownername = "Kevin fdezz"
 
 //numero del owner
-global.owner = ['51921253876']
+global.owner = ['34603022140']
 
 //tag del owner
-global.ownertag = ['51921253876'] 
+global.ownertag = ['34603022140'] 
 
 //locación del owner
-global.location = "Peru"
+global.location = "España"
 
 //emoji del pais
-global.paisicon = "🇵🇪"
+global.paisicon = "🇪🇦"
 
 //FIN OWNER DEL BOT 🤵🏻
 //-------------------------------------//
